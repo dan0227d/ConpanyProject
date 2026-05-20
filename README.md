@@ -10,4 +10,6 @@
 
 [google](https://www.google.com/)
 
-[txt文件](doc/index.html)
+[txt文件](txt/jestTest.txt)
+
+[java檔](CompanyProject/src/main/java/utils/DbConnection.java)
